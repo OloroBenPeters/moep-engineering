@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 550" width="512" height="550">
+  <g fill="#F0E7D9" stroke="none">
+    <!-- Top Roof Chevron -->
+    <path d="M 256,24 L 412,114 L 412,144 L 256,54 L 142,120 L 142,90 Z" />
+
+    <!-- Center 'M' Vertical Column -->
+    <rect x="242" y="54" width="28" height="200" />
+
+    <!-- Left 'M' Upper Leg -->
+    <path d="M 142,90 L 170,106 L 170,225 L 142,225 Z" />
+
+    <!-- Upper Right 'E' Structure -->
+    <!-- 'E' Vertical Back Spine -->
+    <rect x="300" y="118" width="28" height="174" />
+    <!-- 'E' Top Bar -->
+    <rect x="300" y="118" width="112" height="28" />
+    <!-- 'E' Middle Bar -->
+    <rect x="300" y="191" width="78" height="26" />
+    <!-- 'E' Bottom Bar -->
+    <rect x="300" y="264" width="132" height="28" />
+    <!-- Right outer vertical arm connecting top & bottom of 'E' -->
+    <rect x="412" y="118" width="26" height="174" />
+
+    <!-- Center 'O' Circular Torus Ring -->
+    <path fill-rule="evenodd" d="M 256,268 A 74,74 0 1,0 256,416 A 74,74 0 1,0 256,268 Z M 256,296 A 46,46 0 1,1 256,388 A 46,46 0 1,1 256,296 Z" />
+
+    <!-- Lower Left Parallelogram Block (Isometric Column with Window Slot) -->
+    <path fill-rule="evenodd" d="M 74,188 L 152,233 L 152,425 L 74,380 Z M 102,240 L 124,253 L 124,357 L 102,344 Z" />
+
+    <!-- 'P' Vertical Lower Leg -->
+    <rect x="356" y="292" width="28" height="138" />
+
+    <!-- Bottom Slanted Base meeting at bottom apex -->
+    <!-- Left to bottom apex -->
+    <path d="M 152,396 L 256,456 L 256,484 L 152,425 Z" />
+    <!-- Right 'P' to bottom apex -->
+    <path d="M 384,407 L 256,484 L 256,456 L 356,392 Z" />
+    <!-- Diagonal right return of 'P' -->
+    <path d="M 384,407 L 432,292 L 404,292 L 356,407 Z" />
+  </g>
+</svg>
